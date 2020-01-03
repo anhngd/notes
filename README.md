@@ -4,6 +4,7 @@
 
 #### Big Data
 - [Cài đặt Hadoop trên CentOS 8](/notes/install-hadoop-on-centos-8.md)
+- [Cài đặt Machine Learning Server cho Hadoop](/notes/install-machine-learning-server-for-hadoop.md)
 
 ### Libraries
 
