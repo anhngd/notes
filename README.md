@@ -1,5 +1,10 @@
 ## ASP.NET Core
 
+### My notes
+
+#### Big Data
+- [Cài đặt Hadoop trên CentOS 8](/notes/install-hadoop-on-centos-8.md)
+
 ### Libraries
 
 ### Articles
