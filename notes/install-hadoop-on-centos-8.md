@@ -1,5 +1,5 @@
 
-@@ Chuẩn bị
+## Chuẩn bị
 
 - Server: CentOS 8
 
