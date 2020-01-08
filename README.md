@@ -19,3 +19,5 @@
 - [A Large-scale Vietnamese News Text Classification Corpus](https://github.com/duyvuleo/VNTC)
 - [Corpus tiếng việt](https://github.com/binhvq/news-corpus)
 - [Từ vựng Corpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus)
+- [Vietnamese Automatic Speech Recognition](https://github.com/undertheseanlp/automatic_speech_recognition)
+ 
