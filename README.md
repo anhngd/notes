@@ -20,4 +20,8 @@
 - [Corpus tiếng việt](https://github.com/binhvq/news-corpus)
 - [Từ vựng Corpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus)
 - [Vietnamese Automatic Speech Recognition](https://github.com/undertheseanlp/automatic_speech_recognition)
+
+## Teamwork
+
+- [Quy trình làm việc trên git cho nhóm](/notes/git-flow.md)
  
