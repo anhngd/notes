@@ -25,12 +25,12 @@
 1. Trên git server (Github, gitlab,...), fork Central Repo về tài khoản của cá nhân (được gọi là Forked Repo.
 
 2. Clone (tạo bản sao) Forked Repo lên môi trường local. Tại thời điểm này, Forked Repository sẽ được tự động đăng ký dưới tên là `origin`.
-    ```sh
+    ```bash
     $ git clone [URL của Forked Repo]
     ```
 
 3. Truy cập vào thư mục đã được tạo ra sau khi clone, đăng ký Central Repo dưới tên `upstream`.
-    ```sh
+    ```bash
     $ cd [thư mục được tạo ra]
     $ git remote add upstream [URL của Central Repo]
     ```
@@ -40,13 +40,13 @@
 **Chú ý:** Central Repo và Forked Repo sẽ được gọi tương ứng là `upstream` và `origin`.
 
 1. Đồng bộ hóa nhánh master tại local với upstream.
-    ```sh
+    ```bash
     $ git checkout master
     $ git pull upstream master
     ```
 
 2. Tạo nhánh để làm task từ branch master ở local. Tên branch là số issue của task（Ví dụ: `task/1234`）.
-    ```sh
+    ```bash
     $ git checkout master
     $ git checkout -b task/1234
     ```
@@ -55,7 +55,7 @@
 
 4. Push code lên origin.
 
-    ```sh
+    ```bash
     $ git push origin task/1234
     ```
 
@@ -66,7 +66,7 @@
 ### Xử lý conflict xảy ra trong quá trình rebase
 
 Khi xảy ra conflict trong quá trình rebase, sẽ có hiển thị như dưới đây (tại thời điểm này sẽ bị tự động chuyển về một branch vô danh)
-```sh
+```bash
 $ git rebase master
 First, rewinding head to replay your work on top of it...
 Applying: refs #1234 Sửa lỗi cache
@@ -89,7 +89,7 @@ Trong trường hợp muốn dừng việc rebase lại, hãy dùng lệnh `git 
 
 2. Khi đã giải quyết được tất cả các conflict, tiếp tục thực hiện việc rebase bằng:
 
-    ```sh
+    ```bash
     $ git add .
     $ git rebase --continue
     ```
