@@ -13,6 +13,10 @@
 
 - [Vòng đời của Dependency Injection: Transient, Singleton và Scoped](https://tedu.com.vn/lap-trinh-aspnet-core/vong-doi-cua-dependency-injection-transient-singleton-va-scoped-257.html)
 
+### MongoDB
+
+- [How to connect to your remote MongoDB server](https://ianlondon.github.io/blog/mongodb-auth/)
+
 
 ## NLP for Vietnamese
 
