@@ -1,8 +1,10 @@
 ## Notes
 
-### Big Data
+### My notes
+
 - [Cài đặt Hadoop trên CentOS 8](/notes/install-hadoop-on-centos-8.md)
 - [Cài đặt Machine Learning Server cho Hadoop](/notes/install-machine-learning-server-for-hadoop.md)
+- [Cài đặt Hadoop trên CentOS 8](/notes/cai-dát-python.md)
 
 ## Libraries
 
@@ -13,7 +15,7 @@
 
 - [Vòng đời của Dependency Injection: Transient, Singleton và Scoped](https://tedu.com.vn/lap-trinh-aspnet-core/vong-doi-cua-dependency-injection-transient-singleton-va-scoped-257.html)
 
-### MongoDB
+### Tổng hợp
 
 - [How to connect to your remote MongoDB server](https://ianlondon.github.io/blog/mongodb-auth/)
 
