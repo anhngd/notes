@@ -4,7 +4,7 @@
 
 - [Cài đặt Hadoop trên CentOS 8](/notes/install-hadoop-on-centos-8.md)
 - [Cài đặt Machine Learning Server cho Hadoop](/notes/install-machine-learning-server-for-hadoop.md)
-- [Cài đặt Hadoop trên CentOS 8](/notes/cai-dát-python.md)
+- [Cài đặt Python](/notes/cai-dat-python.md)
 
 ## Libraries
 
