@@ -14,6 +14,7 @@
 ### .Net Core
 
 - [Vòng đời của Dependency Injection: Transient, Singleton và Scoped](https://tedu.com.vn/lap-trinh-aspnet-core/vong-doi-cua-dependency-injection-transient-singleton-va-scoped-257.html)
+- [Using Google Cloud Storage in ASP.NET Core](https://medium.com/net-core/using-google-cloud-storage-in-asp-net-core-74f9c5ee55f5)
 
 ### Tổng hợp
 
